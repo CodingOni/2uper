@@ -113,7 +113,7 @@ input[type=submit]:hover {
 }
 
 .navbar-light .navbar-nav .nav-link {
-  color:magenta;
+  color:#06f34f;
   font-weight: bold;
   text-shadow: 1px -1px black;
 }
@@ -142,4 +142,26 @@ body{
   .carousel-caption {
 margin-bottom: 200px;
   }
+}
+
+
+.poweredby {
+  font-size: 80%;
+  font-weight: 400;
+  color: aqua;
+}
+
+.poweredby:hover {
+  font-size: 80%;
+  font-weight: 400;
+  text-decoration: none;
+  color: aqua;
+}
+
+.shopNow:hover{
+  text-decoration: none;
+  -moz-box-shadow: 3px 4px 0px 0px black;
+-webkit-box-shadow: 3px 4px 0px 0px black;
+box-shadow: 3px 4px 0px 0px black;
+  
 }
