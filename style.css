@@ -137,3 +137,9 @@ body{
 #sticky-footer {
   flex-shrink: none;
 }
+
+@media only screen and (min-width: 768px) {
+  .carousel-caption {
+margin-bottom: 200px;
+  }
+}
